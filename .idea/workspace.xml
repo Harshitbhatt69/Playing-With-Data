@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99947997-1bbd-43ab-a934-390c0c289d57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/multiple ploting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bargraph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/histogram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/line graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiple ploting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pie chart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scatter plot.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pie chart.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/multiple ploting.py">
+        <entry file="file://$PROJECT_DIR$/all types of graphs/multiple ploting.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -56,6 +52,7 @@
         <option value="$PROJECT_DIR$/pie chart.py" />
         <option value="$PROJECT_DIR$/area/stack plot.py" />
         <option value="$PROJECT_DIR$/multiple ploting.py" />
+        <option value="$PROJECT_DIR$/all types of graphs/multiple ploting.py" />
       </list>
     </option>
   </component>
@@ -106,8 +103,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.multiple ploting">
-    <configuration name="histogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.multiple ploting (1)">
+    <configuration name="multiple ploting (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Matplotlib" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/all types of graphs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/histogram.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/all types of graphs/multiple ploting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.multiple ploting (1)" />
         <item itemvalue="Python.multiple ploting" />
         <item itemvalue="Python.pie chart" />
         <item itemvalue="Python.stack plot" />
         <item itemvalue="Python.scatter plot" />
-        <item itemvalue="Python.histogram" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +241,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32850242" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32850242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -311,7 +308,17 @@
     <entry file="file://$PROJECT_DIR$/multiple ploting.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all types of graphs/multiple ploting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
